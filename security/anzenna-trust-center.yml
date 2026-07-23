@@ -1,0 +1,18 @@
+generated: '2026-07-17'
+method: searched
+probe: true
+source: https://trust.anzenna.ai/
+url: https://trust.anzenna.ai/
+platform: SafeBase
+certifications:
+- SOC 2 Type 2
+- Microsoft 365 Certified
+reports:
+- Penetration Test
+- SOC 2
+evidence:
+- source: https://trust.anzenna.ai/
+  keywords:
+  - soc 2
+  - soc2
+  - trust center

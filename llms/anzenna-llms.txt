@@ -1,0 +1,117 @@
+# Anzenna
+
+> Your Insider Risk Program, Accelerated.
+
+**URL:** https://www.anzenna.ai
+**Language:** en_US
+**Last Updated:** 2026-07-07
+
+## Blog Posts
+
+- [Five Predictions From My Third Brain](/blog/five-predictions-from-my-third-brain/): Anzenna co-founder Albert Yu grades five dated, testable predictions on AI agent security, from unreliable coding-assistant approvals to detection-as-data and OpenAI shipping defender tooling.
+- [How to Safely Enable AI in Your Environment](/blog/how-to-safely-enable-ai-in-your-environment/): Blocking AI tools pushes usage underground. Learn how to build an AI enablement program that gives your workforce productivity without giving up visibility or control.
+- [Shadow AI Is Already in the Building: How to See the New Attack Surface](/blog/shadow-ai-is-already-in-the-building/): Sixty-nine percent of organizations have evidence employees are using prohibited AI tools. Learn how to see shadow AI usage, tie it to the person behind it, and respond before data walks out the door.
+- [AI Is the New Insider Threat. How to Find and Stop Rogue AI Usage.](/blog/ai-is-the-new-insider-threat-how-to-find-and-stop-rogue-ai-usage/): Today, AI tools and AI agents operate inside your environment with the same access, and sometimes more, as your employees. They read documents, query databases, move data between systems, and...
+- [Anzenna Introduces Agentic AI Investigation Agents, Delivering Autonomous Insider Risk Investigations at Machine Speed](/blog/anzenna-introduces-agentic-ai-investigation-agents-delivering-autonomous-insider-risk-investigations-at-machine-speed/): Agentic AI Capabilities Automate Insider Risk Investigations, Accelerate Threat Resolution, and Eliminate Alert Fatigue REDWOOD CITY – MARCH 19, 2026 – Anzenna, which is redefining insider risk management to address...
+- [Stop Waiting for Trouble: How to Get Ahead of Insider Threats](/blog/stop-waiting-for-trouble-how-to-get-ahead-of-insider-threats/): Cybersecurity teams face many challenges in their daily work. One of the major ones – playing catch-up. Something happens, a red alert pops up, and then everyone scrambles to understand...
+- [How Behavioral Analytics Detects Insider Threats: Why Traditional DLP Fails](/blog/how-behavioral-analytics-detects-insider-threats-why-traditional-dlp-fails/): Discover how behavioral analytics detects insider threats that traditional DLP misses. Learn volumetric analysis techniques to catch data exfiltration.
+- [Enterprise Windows Application Removal: Why EDR Beats MDM for Emergency Response](/blog/uninstalling-unwanted-or-unused-windows-applications/): It’s 4:47 PM on Friday. Your security scanner just flagged a critical vulnerability in TeamViewer, installed on 147 endpoints. Marketing deployed it last month for a webinar. Finance still uses...
+- [My First Week at Anzenna – Using AI to Learn a New Codebase Fast and Contribute Quickly](/blog/my-first-week-at-anzenna-using-ai-to-learn-a-new-codebase-fast-and-contribute-quickly/): In this age of AI, it’s easier than ever to expand your abilities beyond just your background. Having started working with Anzenna just over a week ago, I can confidently...
+- [The Hidden Path: Model Context Protocol (MCP)](/blog/the-hidden-path-model-context-protocol-mcp/): Think You’ve Blocked All AI Tools Except the “Approved” One? Think Again. As organizations race to adopt AI responsibly, many have taken the first step toward governance, allowing only one...
+- [From Data Leaks to Ransomware: How Cybercriminals Are Targeting SaaS Applications](/blog/from-data-leaks-to-ransomware-how-cybercriminals-are-targeting-saas-applications/): In a digital world, data is everything, but so are the risks that accompany it. When systems are breached, the confidentiality (keeping data private), integrity (making sure data is not...
+- [Why Human Error is Still the Biggest Cybersecurity Risk (and How to Fix It)](/blog/why-human-error-is-still-the-biggest-cybersecurity-risk-and-how-to-fix-it/): If there is one thing that every human can be relied on for, it is making mistakes. To err is only human nature. Despite being aware of this, why is...
+- [Why Agentless Security Just Makes Sense for Insider Risk](/blog/why-agentless-security-just-makes-sense-for-insider-risk/): In security, seeing what’s happening is everything. But getting that visibility? It’s usually a pain. You install clunky software on every laptop, slow down performance, raise privacy concerns, and waste...
+- [Movate and Anzenna Forge Strategic Partnership to Redefine Insider Risk Governance in the AI Era](/blog/movate-and-anzenna-forge-strategic-partnership-to-redefine-insider-risk-governance-in-the-ai-era/): Movate, a global leader in digital technology and IT services, today announced a strategic partnership with Anzenna, a next-generation AI-powered insider risk platform. This alliance marks a significant step forward in...
+- [Goodbye Security Awareness Tools, Hello Anzenna](/blog/goodbye-security-awareness-tools-hello-anzenna/): As the world continues to become more interconnected, Cybersecurity threats have become more sophisticated, and the stakes are higher...
+- [The Insider Threat No One Talks About: Data Exfiltration](/blog/the-insider-threat-no-one-talks-about-data-exfiltration/): What is a “cyber threat”? When asked that question, most people immediately think about outside attackers, some hacker in a hoodie, possibly in Eastern Europe, who tries to break...
+- [Navigating Modern Insider Risk: Why Traditional Security Falls Short and What CISOs Can Do](/blog/navigating-modern-insider-risk-why-traditional-security-falls-short-and-what-cisos-can-do/): Insider security breaches have become a costly and frequent reality for enterprises. Recent studies show that insider-led incidents are increasing in both frequency and financial impact - $400 million for...
+- [From Code to Chaos: The Cybersecurity Risks of Gen AI](/blog/from-code-to-chaos-the-cybersecurity-risks-of-gen-ai/): Intro to Gen AI In the last three years, it’s as if AI has become a household name. Though the term has been around since the 1950s, OpenAI’s release of...
+- [The Hidden Danger of Insider Risk: Why Old-School Security Just Doesn’t Cut It](/blog/the-hidden-danger-of-insider-risk-why-old-school-security-just-doesnt-cut-it/): Let’s be real, insider threats are one of the biggest problems in cybersecurity today. You don’t always need an outside hacker to cause chaos. Sometimes, the threat is sitting right inside...
+- [What the Coinbase Breach Teaches Us About Insider Risk](/blog/what-the-coinbase-breach-teaches-us-about-insider-risk/): In May, Coinbase disclosed a massive breach, one that exposed the personal data of over 69,000 users and could cost the company up to $400 million. The attackers didn't break...
+- [AI Security 101: What You Need to Know to Take Action](/blog/ai-security-101-what-you-need-to-know-to-take-action/): Artificial Intelligence (AI) has introduced both new challenges and new opportunities to cyber security. On the one hand, cyber criminals leverage AI capabilities to create attacks that are more advanced...
+- [What is Generative AI in Cybersecurity](/blog/what-is-generative-ai-in-cybersecurity/): Generative AI is a field within artificial intelligence. GenAI digests enormous amounts of data, and later creates new content, such as text, images, videos or music, based on what it...
+- [What Is Data Exfiltration | Detection & Prevention Techniques?](/blog/what-is-data-exfiltration-detection-prevention-techniques/): When they go to work on any given Tuesday morning, bank employees are not usually expecting a robbery. But, just in case, banks are prepared with multiple layers of security....
+- [What is Insider Risk and How to Manage It](/blog/what-is-insider-risk-and-how-to-manage-it/): When most people think about cybersecurity they picture hackers breaking into networks from some far-off location. But what if the real risk is much closer to home? In fact, some...
+- [What is Cyber Security? The Different Types of Cybersecurity](/blog/what-is-cyber-security-the-different-types-of-cybersecurity/): You lock the doors and they come down the vents. You patch the system and they phish your senior copywriter. You upgrade your firewall and someone shares a sensitive link...
+- [Anzenna + Jamf: Uncover and Remediate Hidden Risks with AI-Powered Insights](/blog/anzenna-jamf-integration/): Modern businesses face threats from all angles – and some of the most dangerous risks come from within. Misconfigured devices, shadow applications, and users operating outside security policy can fly...
+- [Webinar on Guarding Against Insider Threats [Live Q & A]](/blog/webinar-on-guarding-against-insider-threats-live-q-a/): Did you know that a staggering 75% of security breaches involve a human risk factor? (Verizon DBIR Report 2023) This statistic...
+- [Announcing Anzenna’s Microsoft 365 Compliance](/blog/announcing-anzennas-microsoft-365-compliance/): Microsoft has rolled out an exciting data security and privacy program within the software industry, especially with startups like...
+- [Announcing Anzenna’s SOC2 Type II compliance](/blog/announcing-anzennas-soc2-type-ii-compliance/): In line with our unwavering commitment to securing customer data, we are proud to announce our SOC 2 Type II compliance.
+- [Holistic Insider Risk Management – The Time is NOW!](/blog/holistic-insider-risk-management-the-time-is-now/): Did you know that Insider Risk is 68% of your security risk? Obtain a Holistic Insider Risk Assessment Today!
+- [Announcing Our Snowflake Integration](/blog/announcing-our-snowflake-integration/): Enhancing Anzenna's insider security monitoring capabilities by integrating with Snowflake.
+- [Announcing the Anzenna Browser Extension](/blog/announcing-our-browser-extension/): Anzenna's new browser extension offers a lightweight, privacy-focused solution to address key concerns like data exfiltration, shadow IT, and unsafe password usage.
+- [Announcing Our HIBP Integration](/blog/announcing-our-hibp-integration/): Automatically safeguard your corporate identities from external breaches with Anzenna and HIBP
+- [Insider Security Risk: A Growing Pandemic in Cybersecurity](/blog/insider-security-risk-a-growing-pandemic-in-cybersecurity/): As a former CISO with over 25 years of experience, I’ve witnessed some of the most damaging security breaches, most of which were caused by Insiders. Insiders refers to employees, contractors,...
+- [Anzenna Launches First-of-Its-Kind Agentic AI security solution](/blog/agentic-ai-security/): Anzenna’s agentic AI security platform takes cybersecurity beyond detection, automating real-time threat remediation to stop insider risks, IP exfiltration, rogue apps and compliance violations instantly. By seamlessly integrating with existing security...
+
+## Pages
+
+- [Product](/product/): Anzenna platform overview: unified identity, endpoint, and SaaS security with autonomous AI investigation agents. Agentless, deployed in minutes.
+- [Investigation Agents](/release/): Autonomous AI investigation agents that turn insider risk alerts into fully-reasoned, ready-to-review case files.
+- [Pricing](/pricing/): Pricing for the Anzenna platform.
+- [Request a Demo](/demo/): See Anzenna live: thirty minutes, your environment, no agents to deploy.
+- [Integrations](/integrations/): 130+ integrations across identity, email, SaaS, cloud, endpoint, and security stacks: Okta, CrowdStrike, Google Workspace, Microsoft 365, Snowflake, Jamf, and more.
+- [Customers](/customers/): Anzenna customer stories and results.
+- [Company](/company/): Founded by former Yahoo and LinkedIn security leaders on a mission to stop insider risk.
+- [Careers](/careers/): Open roles at Anzenna.
+- [Contact](/contact/): Contact Anzenna. Email: info@anzenna.ai.
+- [FAQ](/faq/): Common questions about insider risk management, agentless deployment, and the Anzenna platform.
+- [Press](/press/): Anzenna press and news coverage.
+- [Events](/events/): Upcoming Anzenna events.
+- [Content Library](/content-library/): Data sheets, case studies, solution briefs, and the insider risk buyer's guide.
+- [Case Studies](/case-studies/): Real-world results, including a large educational institution unifying insider risk visibility and remediation.
+- [Security & Trust](/security/): Anzenna security posture: SOC 2 Type II and Microsoft 365 certification.
+
+### Guides
+
+- [What Is Shadow AI Detection? A 2026 Guide](/shadow-ai-detection/): Shadow AI is employees using unsanctioned AI tools that move corporate data outside governance. What it is, why DLP and CASB miss it, and how to detect it.
+- [What Is Data Loss Prevention (DLP)? A 2026 Guide](/data-loss-prevention/): What data loss prevention is, the three DLP deployment models, why legacy DLP floods teams with false positives, and the behavior-first alternative.
+- [What Is Insider Risk Management? A 2026 Guide](/insider-risk-management/): What insider risk management is, the four types of insiders, how a modern program works, and how AI is changing the insider threat landscape.
+- [What Is User Activity Monitoring (UAM)? A 2026 Guide](/user-activity-monitoring/): What user activity monitoring is, how it works, the privacy trade-offs, and the behavioral, metadata-only alternative to screen recording.
+
+### Product Use Cases
+
+- [AI Discovery](/usecases/ai-discovery/): Find every AI app in use across your stack, sanctioned or shadow, and attribute each to the user and data behind it.
+- [AI Access Control](/usecases/ai-access-control/): Decide who can reach which AI tools and accounts by role and risk, and revoke unsanctioned or over-scoped access in one click.
+- [AI DLP](/usecases/ai-dlp/): Prevent sensitive data from leaking into generative AI tools, including prompts and personal accounts that classic DLP never inspects.
+- [AI Misuse Prevention](/usecases/ai-misuse-prevention/): Detect prompt injection, compliance violations, and risky autonomous-agent behavior with full identity and data context.
+- [AI Posture Management](/usecases/ai-posture-management/): Govern your whole AI surface: agents, MCP servers, extensions, and the people behind them.
+- [Insider Risk](/usecases/insider/): Prevent accidental and malicious insider data theft with agentless monitoring of shares, transfers, and personal-drive usage.
+- [Alert Triage](/usecases/soc-triage/): Cut SOC triage time with AI investigation agents that correlate identity, endpoint, and SaaS signals into ready-to-review case files.
+- [UEBA](/usecases/ueba/): Agentless user and entity behavior analytics: peer-group baselines, weak-signal correlation, fewer false positives than legacy UEBA.
+- [Identity Threats](/usecases/identity/): Secure insider identities against phishing, credential theft, and account takeover.
+- [Data & IP Exfiltration](/usecases/data-ip/): Identify unauthorized data transfers and safeguard IP with real-time detection.
+- [SaaS Threats](/usecases/saas/): Prevent insider data leaks through unmanaged SaaS sprawl and unvetted apps.
+- [AI EPM](/ai-epm/): Replace endpoint privilege management with Anzenna's agentless AI EPM: no software agents, no endpoint slowdowns.
+
+### Legal
+
+- [Privacy Policy](/privacy/): How Anzenna collects, uses, and discloses information.
+- [Terms of Service](/terms/): Anzenna terms of service.
+- [EULA](/eula/): Anzenna end-user license agreement.
+- [DPA](/dpa/): Anzenna data processing addendum.
+
+## Compare
+
+- [Compare Anzenna](/compare/): Side-by-side comparisons of Anzenna's agentless insider risk platform against CrowdStrike, DTEX, Proofpoint ITM, Code42 Incydr, Microsoft Purview, and traditional DLP.
+- [Anzenna vs. CrowdStrike](/compare/anzenna-vs-crowdstrike/): CrowdStrike Falcon Data Security runs on the endpoint sensor to stop data leaving the device. Anzenna is agentless and identity-first, reasoning over behavior and context across 130+ sources.
+- [Anzenna vs. DTEX](/compare/anzenna-vs-dtex/): DTEX anchors insider risk to a lightweight endpoint forwarder. Anzenna is agentless across 130+ identity, SaaS, cloud, and endpoint sources with nothing to deploy.
+- [Anzenna vs. Code42 Incydr](/compare/anzenna-vs-incydr/): Incydr (Mimecast) watches file movement with an endpoint agent. Anzenna catches identity misuse, not just files leaving.
+- [Anzenna vs. Proofpoint ITM](/compare/anzenna-vs-proofpoint/): Proofpoint ITM monitors users with an endpoint agent and a rules library. Anzenna runs the full investigation for you, agentlessly.
+- [Anzenna vs. Microsoft Purview](/compare/anzenna-vs-purview/): Purview Insider Risk Management runs inside the Microsoft 365 estate. Anzenna is vendor-neutral across 130+ sources, Microsoft and beyond.
+- [Anzenna vs. Traditional DLP](/compare/anzenna-vs-dlp/): Traditional DLP enforces content rules and misses authorized-but-risky activity. Anzenna reasons over behavior, identity, and context: the modern DLP alternative.
+
+## Use Cases
+
+- [AI Threats](/blog/use-case/ai-threats/): Detect and Block AI data leaks across various channels.
+- [Data and IP Exfiltration](/blog/use-case/data-and-ip-exfiltration/): Identify unauthorized data transfers and safeguard valuable IP with real-time detection.
+- [Source code Exfiltration](/blog/use-case/source-code-exfiltration/): Protect proprietary source code and maintain competitive advantage
+- [Device and Application Threats](/blog/use-case/device-threats/): Go beyond endpoint protection: secure devices from malicious apps, hidden ransomware, and session hijacking.
+- [Insider Cloud Data Exfiltration](/blog/use-case/cloud-data-exfiltration/): Shield your cloud data from unauthorized and inadvertent leaks with proactive oversight.
+- [SaaS Threats](/blog/use-case/saas-threats/): Protect your data by preventing employees from transferring sensitive data to unauthorized third party applications.
+- [Identity Threats](/blog/use-case/identity-threats/): Safeguard against credential theft and account takeovers with continuous, real-time vigilance.
+
+## About
+
+**Company:** Anzenna, Inc. Agentless AI usage control and insider risk management. Founded by former Yahoo and LinkedIn security leaders. Redwood City, CA.
+**Contact:** https://www.anzenna.ai/contact/ (info@anzenna.ai)

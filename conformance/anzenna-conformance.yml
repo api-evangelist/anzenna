@@ -1,0 +1,26 @@
+generated: '2026-07-17'
+method: searched
+source: >-
+  Anzenna Trust Center (https://trust.anzenna.ai/, SafeBase), /.well-known/security.txt,
+  and published compliance announcements on the Anzenna blog.
+standards:
+- id: soc2-type2
+  conforms: true
+  evidence: >-
+    SOC 2 Type 2 compliant per the Anzenna Trust Center (trust.anzenna.ai) and the
+    "Announcing Anzenna's SOC2 Type II compliance" blog post.
+- id: microsoft-365-certified
+  conforms: true
+  evidence: >-
+    Microsoft 365 Certified, listed under Compliance in the Anzenna Trust Center and
+    announced in "Announcing Anzenna's Microsoft 365 Compliance".
+- id: rfc9116-security-txt
+  conforms: true
+  evidence: >-
+    Publishes a /.well-known/security.txt (RFC 9116) with a security Contact.
+- id: iso-27001
+  conforms: false
+  evidence: Not published on the Trust Center as of this probe.
+- id: pci-dss
+  conforms: false
+  evidence: Not applicable; no card-payment surface published.
