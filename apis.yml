@@ -43,6 +43,9 @@ image: https://www.anzenna.ai/wp-content/themes/anzenna-theme-v3_15_2/assets/og-
 specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-17'
+x-docs-platform: docusaurus
+x-docs-platform-confidence: medium
+x-docs-platform-checked: 2026-09-19
 tags:
 - Company
 - Security
