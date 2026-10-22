@@ -90,37 +90,6 @@ edges:
   features:
   - API
   - CUSTOM_SOM
-- partner_name: MCP Registry
-  partner: mcp
-  partner_match: register
-  type: register
-  channel: standard-directory
-  relationship: standard-participant
-  direction: partner-built
-  evidence: https://registry.modelcontextprotocol.io/v0/servers?search=ai.anzenna
-  contract_reference:
-    register: registry.modelcontextprotocol.io
-    spec_file: null
-    role: mcp-server-listing
-    registered_name: ai.anzenna/anzenna
-    register_id: ai.anzenna/anzenna
-    detected_by: sweep-agent-tools.py
-    detected: '2026-10-15'
-  mcp_registry:
-    servers:
-    - ai.anzenna/anzenna
-    hosted_remote: 1
-    local_package: 0
-    transports:
-      sse: 1
-    auth_declared: 0
-    catalog_declared: true
-    namespace_domains:
-    - anzenna.ai
-  matched_by:
-  - namespace-domain
-  detected_by: sweep-agent-tools.py
-  first_seen: '2026-10-14'
 - partner_name: Microsoft Teams (own)
   partner: microsoft-teams
   partner_match: mirror
@@ -138,3 +107,34 @@ edges:
   detected: '2026-10-18'
   detected_by: mirror-platform-listings.py
   category: Microsoft Teams app
+- partner_name: MCP Registry
+  partner: mcp
+  partner_match: register
+  type: register
+  channel: standard-directory
+  relationship: standard-participant
+  direction: partner-built
+  evidence: https://registry.modelcontextprotocol.io/v0/servers?search=ai.anzenna
+  contract_reference:
+    register: registry.modelcontextprotocol.io
+    spec_file: null
+    role: mcp-server-listing
+    registered_name: ai.anzenna/anzenna
+    register_id: ai.anzenna/anzenna
+    detected_by: sweep-agent-tools.py
+    detected: '2026-10-19'
+  mcp_registry:
+    servers:
+    - ai.anzenna/anzenna
+    hosted_remote: 1
+    local_package: 0
+    transports:
+      sse: 1
+    auth_declared: 0
+    catalog_declared: true
+    namespace_domains:
+    - anzenna.ai
+  matched_by:
+  - namespace-domain
+  detected_by: sweep-agent-tools.py
+  first_seen: '2026-10-14'
